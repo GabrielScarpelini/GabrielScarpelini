@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github.com/GabrielScarpelini/Certificates/blob/main/programming.gif" />
+<img height="375em" src="https://github.com/GabrielScarpelini/Certificates/blob/main/programming.gif" />
   
 I'm a Netsuite Developer @ [Runsmart](https://runsmart.cloud/).
 
