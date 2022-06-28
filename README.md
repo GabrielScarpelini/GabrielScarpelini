@@ -41,5 +41,6 @@ const gabs = {
 </details>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:gabriel.spavia@gmail.com)
+[![Linkedin: gabrielpavia](https://img.shields.io/badge/-gabrielpavia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-pavia-tech/)](https://www.linkedin.com/in/gabriel-pavia-tech/)
 [![GitHub: GabrielScarpelini](https://img.shields.io/github/followers/GabrielScarpelini?style=social)](https://github.com/GabrielScarpelini)
 </div>
