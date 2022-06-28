@@ -1,6 +1,8 @@
 ## Hello, World! 👋
 
 <div align="center">
+
+<img src="https://github.com/GabrielScarpelini/Certificates/blob/main/programming.gif" />
   
 I'm a Netsuite Developer @ [Runsmart](https://runsmart.cloud/).
 
