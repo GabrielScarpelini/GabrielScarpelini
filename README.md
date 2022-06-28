@@ -40,5 +40,6 @@ const gabs = {
   </div>
 </details>
 
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:gabriel.spavia@gmail.com)
 [![GitHub: GabrielScarpelini](https://img.shields.io/github/followers/GabrielScarpelini?style=social)](https://github.com/GabrielScarpelini)
 </div>
