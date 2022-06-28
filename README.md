@@ -40,4 +40,5 @@ const gabs = {
   </div>
 </details>
 
-</div>a
+[![GitHub: GabrielScarpelini](https://img.shields.io/github/followers/GabrielScarpelini?style=social)](https://github.com/GabrielScarpelini)
+</div>
