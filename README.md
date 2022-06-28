@@ -1,16 +1,43 @@
-### Hi there 👋
+## Hello, World! 👋
 
-<!--
-**GabrielScarpelini/GabrielScarpelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+I'm a Netsuite Developer @ [Runsmart](https://runsmart.cloud/).
 
-Here are some ideas to get you started:
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const gabs = {
+    personal: {
+        fullName: 'Gabriel Scarpelini Pavia',
+        birthDate: '1998-09-17',
+        pronouns: 'he' | 'his',
+        interests: ['travel', 'games', 'language learning', 'code'],
+        motivation: [
+            'Develop my programming skills',
+            'Improve the software development',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: [DOM, Netsuite],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['styled-components'],
+            },
+            backEnd: {
+                Javascript: ['Node.js'],
+                Python: [Flask, Class, Object Notation],
+                SqlServer: [DML, DDL, Subquery, Functions]
+            },
+            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+        },
+    }
+}
+```
+  </div>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>a
