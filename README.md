@@ -4,7 +4,7 @@
 
 <img height="375em" src="https://github.com/GabrielScarpelini/GabrielScarpelini/blob/main/img/programming.gif" />
   
-I'm a Netsuite Developer @ [Runsmart](https://runsmart.cloud/).
+I am looking for a intern position as a Developer.
 
 <details>
   <summary> More about me</summary>
