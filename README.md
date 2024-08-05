@@ -4,7 +4,7 @@
 
 <img height="375em" src="https://github.com/GabrielScarpelini/GabrielScarpelini/blob/main/img/programming.gif" />
   
-I am looking for a chance to expand my horizons.
+I am looking for a chance to expand my horizons. I work as an Oracle Netsuite Developer.
 
 <details>
   <summary> More about me</summary>
